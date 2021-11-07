@@ -1,0 +1,38 @@
+.main{
+    height: 500px;
+    width: 500px;
+}
+
+.Img1{
+    height: 150px;
+    width: 250px;
+        margin: 10px;
+}
+
+.Img2{
+    height: 350px;
+    width: 200px;
+        margin: 10px;
+}
+
+.Img3{
+    height: 50px;
+    width: 300px;
+        margin: 10px;
+}
+
+.Img4{
+    height: 150px;
+    width: 200px;
+        margin: 10px;
+}
+
+.Img5{
+    height: 300px;
+    width: 300px;
+        margin: 10px;
+}
+
+.image{
+    height: 100%;
+}
